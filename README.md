@@ -1,2 +1,2 @@
 # my-first-repo.
-![basfoto] (/bas.jpg)
+![basfoto](/bas.jpg)
